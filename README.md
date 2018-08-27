@@ -1,3 +1,3 @@
 # general
 General Stuff
-1. tim.apk - slightly modified Cnoversations apk file.
+1. tim.apk - slightly modified Conversations apk file.
